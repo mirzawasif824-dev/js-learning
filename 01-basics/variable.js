@@ -13,4 +13,11 @@ account_city="Lahore"
 
 console.log(account_id);
 
-console.table([account_id, accoutEmail, account_password, account_city, accountstate])
+console.table([account_id, accoutEmail, account_password, account_city, accountstate]);
+
+
+let admin, name;
+name = "jhon";
+admin = name;
+console.log(typeof admin);
+console.log(admin);
