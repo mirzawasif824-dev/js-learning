@@ -6,6 +6,5 @@ function checkEvenOrOdd(number) {
   }
 }
 
-// Let's test it:
 console.log(checkEvenOrOdd(50)); 
 console.log(checkEvenOrOdd(27));  
