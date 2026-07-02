@@ -30,4 +30,4 @@ const percentage = (firstnumber, secnumber) =>{
 return firstnumber % secnumber
 }
 
-console.log(percentage(5, 10))
+console.log(percentage(5, 10));
