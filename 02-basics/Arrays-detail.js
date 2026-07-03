@@ -9,32 +9,32 @@ console.log(names[0]);
 console.log(myarray2[1]);
 
 //Arrays methodes
-// myarray.push(6)
-// myarray.push(7)
-// myarray.pop()
+myarray.push(6)
+myarray.push(7)
+myarray.pop()
 
-// myarray.unshift(10)
-// myarray.shift()
+myarray.unshift(10)
+myarray.shift()
 
-// console.log(myarray.indexOf(54));
+console.log(myarray.indexOf(54));
 
-// const newarray = myarray2.join()
+const newarray = myarray2.join()
 
-// console.log(myarray);
-// console.log(typeof newarray);
+console.log(myarray);
+console.log(typeof newarray);
 
 //slics oe splics
 
-// console.log(myarray);
+console.log(myarray);
 
-// console.log("A", myarray);
-
-
-// const myn1 = myarray.slice(1,3)
-// console.log(myn1);
-// console.log("b", myarray);
+console.log("A", myarray);
 
 
-// const myn2 = myarray.splice(1,3)
-// console.log("c", myarray);
-// console.log(myn2);
+const myn1 = myarray.slice(1,3)
+console.log(myn1);
+console.log("b", myarray);
+
+
+const myn2 = myarray.splice(1,3)
+console.log("c", myarray);
+console.log(myn2);
