@@ -26,11 +26,9 @@ console.log(myarray);
 
 console.log("A", myarray);
 
-
 const myn1 = myarray.slice(1,3)
 console.log(myn1);
 console.log("b", myarray);
-
 
 const myn2 = myarray.splice(1,3)
 console.log("c", myarray);
