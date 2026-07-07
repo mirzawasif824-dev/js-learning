@@ -40,13 +40,13 @@ console.log("----------------------");
 
 delete student.city;
 
-console.log("After Deleting City:", city );
+console.log("After Deleting City:", student);
 
 
 console.log("----------------------");
 
 
-if (student.marks >= 70) {
+if (student.marks >= 50) {
     console.log(student.name + " is Pass");
 } else {
     console.log(student.name + " is Fail");
