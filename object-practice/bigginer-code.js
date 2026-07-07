@@ -25,14 +25,14 @@ console.log("----------------------");
 
 student.age = 21;
 
-console.log("Updated Age:" , student.age);
+console.log("Updated Age:", student.age);
 
 
 console.log("----------------------");
 
 student.gender = "Male";
 
-console.log("After Adding Gender:" , student);
+console.log("After Adding Gender:", student);
 
 
 console.log("----------------------");
