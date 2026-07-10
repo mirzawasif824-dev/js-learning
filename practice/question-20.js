@@ -1,0 +1,6 @@
+function countWords(sentence) {
+  let words = sentence.trim().split(" ");
+  return words.length;
+}
+
+console.log(countWords("I am learning JavaScript")); 
