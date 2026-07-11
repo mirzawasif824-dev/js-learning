@@ -8,4 +8,4 @@ function calculateAverage(numbers) {
   return sum / numbers.length;
 }
 
-console.log(calculateAverage([10, 20, 30])); 
+console.log(calculateAverage([10, 20, 35])); 
