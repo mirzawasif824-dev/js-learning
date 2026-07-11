@@ -3,4 +3,4 @@ function decimalToBinary(decimal) {
 }
 
 console.log(decimalToBinary(10)); 
-console.log(decimalToBinary(255)); 
+console.log(decimalToBinary(25)); 
